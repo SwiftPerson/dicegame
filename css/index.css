@@ -1,0 +1,48 @@
+*{
+  margin: 0;
+}
+
+
+
+h2,p{
+  font-family: 'Orbitron', sans-serif;
+  color: white;
+}
+
+
+body{
+
+  text-align: center;
+  font-family: sans-serif;
+  background-color: #c70039;
+}
+
+h1{
+  font-family: 'Pacifico', cursive;
+  margin-top: 5rem;
+  font-size: 3rem;
+  color:#16c79a;
+  font-weight: bold;
+}
+
+h2{
+  font-family: 'Orbitron', sans-serif;
+  display: inline-block;
+  font-size: 2rem;
+}
+p{
+   margin-bottom: 2rem;
+}
+img{
+  display: block;
+  margin-top: 5rem;
+  border-radius: 10px;
+}
+.player1,.player2{
+  display: inline-block;
+  margin: 2rem;
+}
+
+.container{
+  margin: 5rem 0;
+}
