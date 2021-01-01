@@ -12,11 +12,11 @@ plyr1_img.setAttribute("src", img1);
 plyr2_img.setAttribute("src", img2);
 if (player1 > player2) {
 
-  GameBoard.textContent = "🚩 Player One Wins";
+  GameBoard.textContent = "🚩 Player 1 Wins!";
   document.querySelector(".player1 h2").style.color = "#54e346";
 } else if(player1 < player2) {
 
-  GameBoard.textContent = "Player Two Wins 🚩";
+  GameBoard.textContent = "Player 2 Wins! 🚩";
   document.querySelector(".player2 h2").style.color = "#54e346";
 
 }else{
