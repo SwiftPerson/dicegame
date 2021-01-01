@@ -1,0 +1,2 @@
+# dicegame
+simplest javascript dicegame
